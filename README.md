@@ -34,7 +34,7 @@
 ### 🪄 Fun Animation Zone
 
 <p align="center">
-  <img src="https://media.tenor.com/qzF6yXfT0TAAAAAd/anime-hacker.gif" width="300"/>
+  <img src="https://tenor.com/gLD9HeRfVCz.gif" width="300"/>
   <img src="https://media.tenor.com/7b3oXq3yD4EAAAAC/programming-anime.gif" width="300"/>
 </p>
 
