@@ -31,15 +31,6 @@
 
 ---
 
-### 🪄 Fun Animation Zone
-
-<p align="center">
-  <img src="https://media.tenor.com/qzF6yXfT0TAAAAAd/anime-hacker.gif" width="300"/>
-  <img src="https://media.tenor.com/7b3oXq3yD4EAAAAC/programming-anime.gif" width="300"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,10 +53,18 @@
 ### 💬 Connect With Me
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://discord.gg/gETtSbCx7z">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://t.me/V2lVip">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/project.family.store">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://projectfamily.vercel.app">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
